@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">blogs</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Blogs App</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_dashboard">Latest Blogs</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_blog">Blogs</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="title_activity_blog_info">Blog Details</string>
+    <string name="url">URL:</string>
+    <string name="dash">-</string>
+    <string name="feed">Feed:</string>
+    <string name="submitted_date">Submitted Date:</string>
+</resources>

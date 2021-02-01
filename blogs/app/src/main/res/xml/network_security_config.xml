@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- IMPORTANT NOTE:
+the configuration setting cleartextTrafficPermitted=\"true\" should only be used for testing purposes,
+when connecting to APIs on production you should always connect to https based endpoints instead of http
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>
